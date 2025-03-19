@@ -1,0 +1,8 @@
+/home/shay/Documents/training/Sockets/UDPServer/build/CMakeFiles/edit_cache.dir
+/home/shay/Documents/training/Sockets/UDPServer/build/CMakeFiles/rebuild_cache.dir
+/home/shay/Documents/training/Sockets/UDPServer/build/server/CMakeFiles/server.dir
+/home/shay/Documents/training/Sockets/UDPServer/build/server/CMakeFiles/edit_cache.dir
+/home/shay/Documents/training/Sockets/UDPServer/build/server/CMakeFiles/rebuild_cache.dir
+/home/shay/Documents/training/Sockets/UDPServer/build/client/CMakeFiles/client.dir
+/home/shay/Documents/training/Sockets/UDPServer/build/client/CMakeFiles/edit_cache.dir
+/home/shay/Documents/training/Sockets/UDPServer/build/client/CMakeFiles/rebuild_cache.dir
