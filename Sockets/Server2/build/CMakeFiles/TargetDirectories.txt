@@ -1,0 +1,8 @@
+/home/shay/Documents/training/Sockets/Server2/build/CMakeFiles/edit_cache.dir
+/home/shay/Documents/training/Sockets/Server2/build/CMakeFiles/rebuild_cache.dir
+/home/shay/Documents/training/Sockets/Server2/build/server/CMakeFiles/server.dir
+/home/shay/Documents/training/Sockets/Server2/build/server/CMakeFiles/edit_cache.dir
+/home/shay/Documents/training/Sockets/Server2/build/server/CMakeFiles/rebuild_cache.dir
+/home/shay/Documents/training/Sockets/Server2/build/client/CMakeFiles/client.dir
+/home/shay/Documents/training/Sockets/Server2/build/client/CMakeFiles/edit_cache.dir
+/home/shay/Documents/training/Sockets/Server2/build/client/CMakeFiles/rebuild_cache.dir
